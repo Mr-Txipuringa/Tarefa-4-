@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.conteiner {
+    margin: 10px 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+}
+
+.main {
+    text-align: right;
+    font-size: 24px;
+    color: #551a8b;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.estadio-titulo {
+    font-size: 35px;
+    color: #bd3636;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+
+.conteiner-estadio-content {
+    display: flex;
+}
+
+.image-conteiner {
+    width: 92%;
+}
+
+.Picture1 {
+    margin: 2px 0px;
+    height: 600px;
+    width: 100%;
+    padding: 0px 0px;
+    object-fit: cover;
+}
+
+.description-stadios {
+    box-sizing: border-box;
+    width: 60%;
+    margin: 0px 2px 2px 2px;
+    text-align: center;
+}
+
+.description-stadio1 {
+    width: 100%;
+    height: 600px;
+    margin-top: 180px;
+    margin-bottom: 10px;
+}
+
+.description-stadio2 {
+    width: 100%;
+    height: 600px;
+}
+
+.description-stadio3 {
+    width: 100%;
+    height: 600px;
+}
+
+.description-stadio4 {
+    width: 100%;
+    height: 600px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    color: #bd3636;
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 16px;
+    line-height: 0.9cm;
+    font-weight: normal;
+}
+
+#explore {
+    background-color: #bd3636;
+    font-size: 16px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+}
